@@ -1,2 +1,22 @@
-# Data_science_Assignments
-All my data science assignmenst including EDA,MLR,KNN,Clustering,Neural Networking,and Hypothesis testing,pandas,  NLP_Navive_Bayes , Random forest , recommendation system , XGBM &amp; LGBM
+# Data Science Assignments
+
+This repository contains my data science assignments completed during my training.
+
+## Topics Covered
+- Exploratory Data Analysis (EDA)
+- Basic Statistics
+- Multiple Linear Regression (MLR)
+- K-Nearest Neighbors (KNN)
+- Clustering
+- Neural Networks
+- Hypothesis Testing
+
+## Tools Used
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Scikit-learn
+
+## Author
+Ashok
